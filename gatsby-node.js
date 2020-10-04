@@ -4,4 +4,16 @@
  * See: https://www.gatsbyjs.com/docs/node-apis/
  */
 
-// You can delete this file if you're not using it
+const playersList = require('./src/data/players.json')
+
+exports.createPages = ({ actions }) => {
+    const { createPage } = actions
+
+    playersList.forEach(player => {
+        createPage({
+          path: `/player/${player.slug}`,
+          component: require.resolve(`./src/templates/player/index.tsx`),
+          context: { player },
+        })
+    })
+}
