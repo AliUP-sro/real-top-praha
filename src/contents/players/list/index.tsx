@@ -16,7 +16,7 @@ export default () => {
               id
               relativeDirectory
               childImageSharp {
-                fluid(maxHeight: 400, quality: 20) {
+                fluid(maxHeight: 400, quality: 40) {
                   ...GatsbyImageSharpFluid
                 }
               }

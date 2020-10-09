@@ -50,6 +50,10 @@ export default ({ partnersPage }: Props) => {
                         alt=""
                         fixed={image.node.childImageSharp.fixed}
                         style={S.imgStyle}
+                        imgStyle={{
+                            objectFit: "contain",
+                            objectPosition: "50% 50%",
+                          }}
                     />
                 ) : null)
             }

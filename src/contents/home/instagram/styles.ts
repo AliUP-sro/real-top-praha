@@ -36,10 +36,7 @@ export const ImgLink = styled.a`
         height: calc(((100vw - 240px  - (5 * 16px)) / 5));
     }
 
-    @media only screen and (min-width: 1440px) {
-        width: calc(((1440px - 240px - (5 * 16px)) / 5));
-        height: calc(((1440px - 240px  - (5 * 16px)) / 5));
-    }
+ 
 `
 
 

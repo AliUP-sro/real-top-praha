@@ -36,7 +36,7 @@ export default ({ pageContext: { player } }) => {
               id
               relativeDirectory
               childImageSharp {
-                fixed(height: 200, width: 200, quality: 40) {
+                fixed(height: 200, width: 200, quality: 60) {
                     ...GatsbyImageSharpFixed
                 }
                 original {

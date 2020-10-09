@@ -30,5 +30,13 @@
         "number": 5,
         "birthday": "25.2.1974",
         "proffesion": "Fotbalista: Baník Ostrava, AC Sparta Praha, AJ Auxerre, ME 2004 bronz"
+    },
+    {
+        "slug": "jiri-babica",
+        "name": "Jiří Babica",
+        "type": "Osobnost kultury",
+        "number": 15,
+        "birthday": "1-5-1961",
+        "proffesion": "Televizní kuchař v pořadu Babicovy dobroty"
     }
 ]
