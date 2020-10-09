@@ -17,7 +17,7 @@ export default () => {
                     id
                     localFile {
                         childImageSharp {
-                            fixed(width: 250, height: 250, quality: 80) {
+                            fixed(width: 250, height: 250) {
                                 ...GatsbyImageSharpFixed
                             }
                         }
