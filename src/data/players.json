@@ -38,5 +38,101 @@
         "number": 15,
         "birthday": "1-5-1961",
         "proffesion": "Televizní kuchař v pořadu Babicovy dobroty"
-    }
+    },
+    {
+        "slug": "erich-brabec",
+        "name": "Erich Brabec",
+        "type": "Osobnost sportu",
+        "number": 21,
+        "birthday": "24-2-1977",
+        "proffesion": "Fotbalový obránce: SK Slavia Praha, AS Sparta Praha, FK Senica, Bohemians 1905, FC Slovan Liberec"
+    },
+    {
+        "slug": "martin-dostal",
+        "name": "Martin Dostál",
+        "type": "Osobnost sportu",
+        "number": 0,
+        "birthday": "23-9-1989",
+        "proffesion": "Fotbalový obránce: SK Slavia Praha, FC Baník Ostrava, Bohemians Praha 1905"
+    },
+    {
+        "slug": "lukas-droppa",
+        "name": "Lukáš Droppa",
+        "type": "Osobnost sportu",
+        "number": 0,
+        "birthday": "22-4-1989",
+        "proffesion": "Fotbalový záložník: AC Sparta Praha, FC Baník Ostrava, Śląsk Wrocław (Polsko), CS Pandurii Târgu Jiu (Rumunsko), FK Tom Tomsk (Rusko), Band?rmaspor (Turecko), ŠK Slovan Bratislava, Šachter Karagandy FK (Kazachstán)"
+    },
+    {
+        "slug": "michael-frolik",
+        "name": "Michael Frolík",
+        "type": "Osobnost sportu",
+        "number": 67,
+        "birthday": "17-2-1988",
+        "proffesion": "Hokejový útočník: FC Rabat Kladno, Florida Panhers, Chicago Blackhawks, Calgary Flames"
+    },
+    {
+        "slug": "milan-fukal",
+        "name": "Milan Fukal",
+        "type": "Osobnost sportu",
+        "number": 4,
+        "birthday": "16-5-1975",
+        "proffesion": "Český fotbalový obránce: FK Český Brod, FC Bohemians Praha, FK Jablonec, AC Sparta Praha, Hamburger SV, Borussia Monchengladbach. Úspěchy: Konfederační pohár FIFA bronz, 2X titul se Spartou"
+    },
+    {
+        "slug": "marcel-gecov",
+        "name": "Marcel Gecov",
+        "type": "Osobnost sportu",
+        "number": 13,
+        "birthday": "1-1-1988",
+        "proffesion": "Fotbalový záložník: SK Slavia Praha, FC Slovan Liberec, Fulham FC, KAA Gent, FC Rapid Bucuresti"
+    },
+    {
+        "slug": "milan-gulas",
+        "name": "Milan Gulaš",
+        "type": "Osobnost sportu",
+        "number": 0,
+        "birthday": "30-12-1985",
+        "proffesion": "Hokejový útočník: HC České Budějovice, Metallurg Magnitogorsk (Rusko), Färjestad BK (Švédsko), HC Škoda Plzeň"
+    },
+    {
+        "slug": "martin-hanzal",
+        "name": "Martin Hanzal",
+        "type": "Osobnost sportu",
+        "number": 11,
+        "birthday": "20-2-1987",
+        "proffesion": "Český hokejový útočník: HC České Budějovice, BK Mladá Boleslav, Omaha Lancers, Red Deer Rebels, Arizona Coyotes, Minnesota Wild, Dallas Stars"
+    },
+    {
+        "slug": "ivan-hasek",
+        "name": "Ivan Hašek",
+        "type": "Osobnost sportu",
+        "number": 6,
+        "birthday": "6-9-1963",
+        "proffesion": "Fotbalista a trenér: TJ Sparta ČKD Praha, RC Strasbourg, Sanfrencce Hirošima, reprazentace 55 zápasů, 5 gólů"
+    },
+    {
+        "slug": "dominik-hasek",
+        "name": "Dominik Hašek",
+        "type": "Osobnost sportu",
+        "number": 39,
+        "birthday": "29-1-1965",
+        "proffesion": "Hokejový brankář: Tesla Pardubice, Chicago Blackhawks, Buffalo Sabres, Detroit Red Wings"
+    },
+    {
+        "slug": "Marek",
+        "name": "Dominik Hašek",
+        "type": "Osobnost sportu",
+        "number": 39,
+        "birthday": "29-1-1965",
+        "proffesion": "Hokejový brankář: Tesla Pardubice, Chicago Blackhawks, Buffalo Sabres, Detroit Red Wings"
+    },
+    
+    
+    
+    
+    
+    
+    
+
 ]
