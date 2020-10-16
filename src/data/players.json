@@ -120,15 +120,501 @@
         "proffesion": "Hokejový brankář: Tesla Pardubice, Chicago Blackhawks, Buffalo Sabres, Detroit Red Wings"
     },
     {
-        "slug": "Marek",
-        "name": "Dominik Hašek",
+        "slug": "marek-heinz",
+        "name": "Marek Heinz",
         "type": "Osobnost sportu",
-        "number": 39,
-        "birthday": "29-1-1965",
-        "proffesion": "Hokejový brankář: Tesla Pardubice, Chicago Blackhawks, Buffalo Sabres, Detroit Red Wings"
+        "number": 18,
+        "birthday": "4-8-1977",
+        "proffesion": "Český fotbalový útočník: SK Sigma Olomouc, Hamburger SV, FK Dukla Praha, Baník Ostrava, Borussia Monchengladbach, Galatasaray SK, AS Sant-Etienne, Ferensvaros. Úspěchy: Bronz ME 2004, mistr ligy 2003/2004"
     },
-    
-    
+    {
+        "slug": "pavel-hoftych",
+        "name": "Pavel Hoftych",
+        "type": "Osobnost sportu",
+        "number": 6,
+        "birthday": "20-5-1967",
+        "proffesion": "Fotbalový obránce a trenér: FC Slušovice, Svit Zlín, 1. FK Příbram, ASK Klingenbach, Bohemians 1905, Spartak Trnava"
+    },
+    {
+        "slug": "tomas-hubschman",
+        "name": "Tomáš Hübschman",
+        "type": "Osobnost sportu",
+        "number": 3,
+        "birthday": "4-9-1981",
+        "proffesion": "Český fotbalový reprezentant: AC Sparta Praha, FK Baumit Jablonec, Šachtar Doněck. Úspěchy: Zlato ME 21, ME 2004 bronz, POHÁR UEFA, UKRAJINSKÝ TITUL 8, ČESKÝ 1"
+    },
+    {
+        "slug": "tomas-hunal",
+        "name": "Tomáš Hunal",
+        "type": "Osobnost sportu",
+        "number": 15,
+        "birthday": "1-6-1973",
+        "proffesion": "Bývalý hráč SK Slavia Praha, Viktoria Žižkov, FK Teplice"
+    },
+    {
+        "slug": "martin-hysky",
+        "name": "Martin Hyský",
+        "type": "Osobnost sportu",
+        "number": 3,
+        "birthday": "25-9-1975",
+        "proffesion": "Fotbalista: SK Slavia Praha, FC Slovan Liberec, AIK Stockholm, Bohemians 1905, Dynamo Moska, FC Energie Cottbus"
+    },
+    {
+        "slug": "marek-jankulovski",
+        "name": "Marek Jankulovski",
+        "type": "Osobnost sportu",
+        "number": 3,
+        "birthday": "9-5-1977",
+        "proffesion": "Český fotbalový obránce. Kariéra: FC Baník Ostrava, SSC Neapol, Udinese Calcio, AC MIlan. Úspěchy: ME U21 stříbro, ME 2004 bronz, Superpohár UEFA 2007, Liga Mistrů 2007"
+    },
+    {
+        "slug": "jiri-jarosik",
+        "name": "Jiří Jarošík",
+        "type": "Osobnost sportu",
+        "number": 6,
+        "birthday": "27-10-1977",
+        "proffesion": "Bývalý fotbalista: AC Sparta Praha, Chelsea, Zaragoza, Celtic, Deportivo Alavés, narozen v Ústí nad Labem"
+    },
+    {
+        "slug": "pavel-kantor",
+        "name": "Pavel Kantor",
+        "type": "Osobnost sportu",
+        "number": 31,
+        "birthday": "17-8-1991",
+        "proffesion": "Hokejový brankař: HC České Budějovice, IHC Písek, HC Vítkovice Steel"
+    },
+    {
+        "slug": "michal-kempny",
+        "name": "Michal Kempný",
+        "type": "Osobnost sportu",
+        "number": 0,
+        "birthday": "8-9-1990",
+        "proffesion": "Hokejový obránce: Kometa Brno, Slavia Praha, Avangard Omsk (Rusko), Chicago Blackhawks (USA), Washington Capitals (USA)"
+    },
+    {
+        "slug": "karol-kisel",
+        "name": "Karol Kisel",
+        "type": "Osobnost sportu",
+        "number": 6,
+        "birthday": "15-3-1977",
+        "proffesion": "Fotbalový záložník: Bohemians 1905, FC Slovan Liberec, AC Sparta Praha, Sydnei FC, SK Slavia Praha"
+    },
+    {
+        "slug": "lucie-kladrubska",
+        "name": "Lucie Kladrubská",
+        "type": "Osobnost sportu",
+        "number": 8,
+        "birthday": "30-6-1987",
+        "proffesion": "Talentovaná opora přišla do Sparty z Českých Budějovic, kde hrála s chlapci. V prvním angažmá mezi ženami se etablovala a stala členkou základní jedenáctky. Po dvouletém účinkování v juniorské reprezentaci se v roce 2005 podívala do reprezentačního áčka a vybojovala si místo v základní sestavě. Jedná se o levonohou velmi talentovanou krajní obránkyni či záložníci s velkou budoucností."
+    },
+    {
+        "slug": "jan-koller",
+        "name": "Jan Koller",
+        "type": "Osobnost sportu",
+        "number": 9,
+        "birthday": "30-3-1973",
+        "proffesion": "Fotbalový útočník: AC Sparta Praha, KSC Lokeren, RSC Anderlecht, Borussia Dortmund, AS Mnako"
+    },
+    {
+        "slug": "jan-koukal",
+        "name": "Jan Koukal",
+        "type": "Osobnost sportu",
+        "number": 11,
+        "birthday": "20-6-1983",
+        "proffesion": "Squashista: 16x titul mistra České republiky, vícemistr Evropy"
+    },
+    {
+        "slug": "lubos-kozel",
+        "name": "Luboš Kozel",
+        "type": "Osobnost sportu",
+        "number": 4,
+        "birthday": "16-3-1971",
+        "proffesion": "Fotbalový obránce: SK Slavia Praha, FC Upješť, Bohemians 1905, FC Viktoria Plzeň, trenérská kariéra: FK Jablonec, FC Slovan Liberec, FK Dukla Praha"
+    },
+    {
+        "slug": "michal-krcmar",
+        "name": "Michal Krčmář",
+        "type": "Osobnost sportu",
+        "number": 8,
+        "birthday": "23-1-1991",
+        "proffesion": "Český reprezentat v biatlonu. Má stříbrnou medaili ve sprintu na Zimních olympijských hrách v Pchjongčchangu a spoustu dalších úspěchů."
+    },
+    {
+        "slug": "tereza-krejcirikova",
+        "name": "Tereza Krejčiříková",
+        "type": "Osobnost sportu",
+        "number": 25,
+        "birthday": "21-6-1996",
+        "proffesion": "Fotbalistka SK Slavie, dříve AC Sparta. Hraj na pozici středního záložníka."
+    },
+    {
+        "slug": "jaroslav-kristek",
+        "name": "Jaroslav Kristek",
+        "type": "Osobnost sportu",
+        "number": 12,
+        "birthday": "16-3-1980",
+        "proffesion": "Hokejový útočník: PSG Zlín, Buffalo Sabres, HC Sparta Praha, HC Lev Poprad"
+    },
+    {
+        "slug": "martin-latka",
+        "name": "Martin Latka",
+        "type": "Osobnost sportu",
+        "number": 28,
+        "birthday": "28-9-1984",
+        "proffesion": "Fotbalista: SK České Budějovice, SK Slavia Praha, Birmingham City, Fortuna Düsseldorf, FC Slovan Liberec"
+    },
+    {
+        "slug": "marcel-licka",
+        "name": "Marcel Lička",
+        "type": "Osobnost sportu",
+        "number": 17,
+        "birthday": "17-7-1977",
+        "proffesion": "Fotbalový záložník: FC Baník Ostrava, SK Slavia Praha, FK Viktoria Žižkov, Górnik Zabrze"
+    },
+    {
+        "slug": "mario-licka",
+        "name": "Mario Lička",
+        "type": "Osobnost sportu",
+        "number": 8,
+        "birthday": "30-4-1982",
+        "proffesion": "Český fotblový záložník: FC Baník Ostrava, 1. FC Slovácko, Southamton FC, SK Slavia Praha, FC Istres, titul v šeské lize s baníkem Ostrava 2003/4"
+    },
+    {
+        "slug": "vratislav-lokvenc",
+        "name": "Vratislav Lokvenc",
+        "type": "Osobnost sportu",
+        "number": 12,
+        "birthday": "27-9-1973",
+        "proffesion": "Fotbalista: Ac Sparta Praha, Basilej, Read Bull Salzburg, 1. FC Kaiserslauten, reprezentace 74 zápasů, 14 gólů"
+    },
+    {
+        "slug": "irena-martinkova",
+        "name": "Irena Martínková",
+        "type": "Osobnost sportu",
+        "number": 27,
+        "birthday": "9-9-1986",
+        "proffesion": "Záložnice reprezentace a AC Sparty Praha: Je stálicí reprezentačních výběrů, přičemž ve výběru U19 patřila k základním pilířům, stejně jako nyní v seniorském týmu. Neunikla ani zvídavým očím pozorovatelů ze zahraničních klubů. Rok co rok se také pohybuje v anketě fotbalistka roku."
+    },
+    {
+        "slug": "marek-matejovsky",
+        "name": "Marek Matějovský",
+        "type": "Osobnost sportu",
+        "number": 10,
+        "birthday": "20-12-1981",
+        "proffesion": "Fotbalový záložník: FK Mladá Boleslav, FK Baumit Jablonec, Reading FC, AC Sparta Praha"
+    },
+    {
+        "slug": "pavel-mezlik",
+        "name": "Pavel Mezlík",
+        "type": "Osobnost sportu",
+        "number": 6,
+        "birthday": "25-6-1983",
+        "proffesion": "Fotbalista: 1. FC Brno, FC Hradec Králové, SK Dynamo České Budějovice, FC Zbrojovka Brno"
+    },
+    {
+        "slug": "petr-mrazek",
+        "name": "Petr Mrázek",
+        "type": "Osobnost sportu",
+        "number": 34,
+        "birthday": "14-2-1992",
+        "proffesion": "Český hokejový brankář: Detrit Red Wings, bronz na MS 2012"
+    },
+    {
+        "slug": "martin-müller",
+        "name": "Martin Müller",
+        "type": "Osobnost sportu",
+        "number": 3,
+        "birthday": "6-11-1970",
+        "proffesion": "Fotbalový obránce: SK Slavia Praha, Petra Drnovice, Vissel Kóbe, Petra Drnovice, FK Viktoria Plzeň, 1. FK Příbram"
+    },
+    {
+        "slug": "michal-nehoda",
+        "name": "Michal Nehoda",
+        "type": "Osobnost sportu",
+        "number": 24,
+        "birthday": "14-11-1976",
+        "proffesion": "Fotbalista: FC Union Cheb, FK Viktoria Žižkov, 1. FK Příbram, Tescoma Zlín"
+    },
+    {
+        "slug": "josef-nemec",
+        "name": "Josef Němec",
+        "type": "Osobnost sportu",
+        "number": 8,
+        "birthday": "24-7-1972",
+        "proffesion": "Fotbalový záložník: Slavia karlovy Vary, FK Dukla Praha, AC Sparta Praha, Cruz Azul, 1. FK Příbram, FC Viktoria Plzeň"
+    },
+    {
+        "slug": "jan-nezmar",
+        "name": "Jan Nezmar",
+        "type": "Osobnost sportu",
+        "number": 7,
+        "birthday": "5-7-1977",
+        "proffesion": "Český fotbalový útočník a obránce. Kariéra: SFC Opava, Slovan Liberec, 1. FC SYNOT, MFK Ružumberok, MSA Dolní Benešov, sportovní ředitel Slovanu Liberec. V současní době sportovní ředitel SK Slavia Praha"
+    },
+    {
+        "slug": "marek-nikl",
+        "name": "Marek Nikl",
+        "type": "Osobnost sportu",
+        "number": 7,
+        "birthday": "20-2-1976",
+        "proffesion": "Fotbalový obránce: Bohemians 1905, 1 FC Norinberk"
+    },
+    {
+        "slug": "jiri-novotny",
+        "name": "Jiří Novotný",
+        "type": "Osobnost sportu",
+        "number": 8,
+        "birthday": "7-4-1970",
+        "proffesion": "Bývalý fotbalový obránce: může se pyšnit čtrnácti ligovými tituly, což je český rekord. Hrál za Spartu, Liberec, Duklu, Most, Blšany a Rubiň Kazaň."
+    },
+    {
+        "slug": "david-pastrnak",
+        "name": "David Pastrňák",
+        "type": "Osobnost sportu",
+        "number": 88,
+        "birthday": "25-5-1996",
+        "proffesion": "Český hokejový útočník momentálně hrající za Boston Bruins."
+    },
+    {
+        "slug": "ondrej-pavelec",
+        "name": "Ondřej Pavelec",
+        "type": "Osobnost sportu",
+        "number": 31,
+        "birthday": "31-8-1987",
+        "proffesion": "Český hokejový brankář, hrající za New York Rangers. Kariéra: Atlanta Thrashers, Chicago Wolves, Winnipeg Jets, Bílí Tygři Liberec. Reprezentace Zlato MS 2010, Bronz 2011"
+    },
+    {
+        "slug": "tomas-pesir",
+        "name": "Tomáš Pešír",
+        "type": "Osobnost sportu",
+        "number": 22,
+        "birthday": "30-5-1981",
+        "proffesion": "Fotbalista: Kayserispor, Sk Slavia Praha, FK Chmel Blšany, Jagiellonia Białystok, MFK Ružomberok"
+    },
+    {
+        "slug": "tomas-plekanec",
+        "name": "Tomáš Plekanec",
+        "type": "Osobnost sportu",
+        "number": 14,
+        "birthday": "31-10-1982",
+        "proffesion": "Hokejista: HC Kladno, Montreal Canadiens, kapitán národního týmu"
+    },
+    {
+        "slug": "karel-poborsky",
+        "name": "Karel Poborský",
+        "type": "Osobnost sportu",
+        "number": 8,
+        "birthday": "30-3-1972",
+        "proffesion": "Český fotbalový záložník. Kariéra: TJ Dynamo Č. Budějovice, FK Viktoria Žižkov, SK Slavia Praha, Manchester United, Benfica Lisabon, Lazio Řím, AC Sparta Praha. Úspěchy: ME 1996 stříbro, ME 2004 bronz, 3x česká liga, Premier League 96/97"
+    },
+    {
+        "slug": "jakub-podany",
+        "name": "Jakub Podaný",
+        "type": "Osobnost sportu",
+        "number": 0,
+        "birthday": "15-6-1987",
+        "proffesion": "Fotbalový obránce: AC Sparta Praha, Bohemians Praha, FK Teplice, AEL Kallonis (Řecko), Atlético de Kolkata (Indie), Dukla Praha, Bohemians 1905"
+    },
+    {
+        "slug": "daniel-pudil",
+        "name": "Daniel Pudil",
+        "type": "Osobnost sportu",
+        "number": 18,
+        "birthday": "27-9-1985",
+        "proffesion": "Český fotbalový záložník či obránce. Kariéra: FK Chmel Blšany, FC Slovan Liberec, SK Slavia Praha, KRC Genk, AC Sesena, Watford FC, Sheffield Wendesday FC, reprezentace Čr"
+    },
+    {
+        "slug": "karel-rada",
+        "name": "Karel Rada",
+        "type": "Osobnost sportu",
+        "number": 3,
+        "birthday": "2-3-1971",
+        "proffesion": "Bývalý český střední obránce: Dukla Praha, SK Sigma Olomouc, Trbzonspor, SK Slavia Praha, Eintracht Frnkfurt, FK Teplice, Bohemians 1905. Mistovství Evvropy 1996 stříbro."
+    },
+    {
+        "slug": "jan-rajnoch",
+        "name": "Jan Rajnoch",
+        "type": "Osobnost sportu",
+        "number": 6,
+        "birthday": "30-9-1981",
+        "proffesion": "Fotbalista: AC Spart Praha, FK Mladá Boleslav, FC Bohemians Praha, FC Energie Cottbus, Sivasspor, FC Slovan Liberec, SK Sigma Olomouc"
+    },
+    {
+        "slug": "jan-rutta",
+        "name": "Jan Rutta",
+        "type": "Osobnost sportu",
+        "number": 90,
+        "birthday": "29-7-1990",
+        "proffesion": "Český hokejový obrance, momentálně hrající za Chicago Blackhawsk. Sk Kadan, Piráťi Chomutov"
+    },
+    {
+        "slug": "alexander-salak",
+        "name": "Alexander Salák",
+        "type": "Osobnost sportu",
+        "number": 53,
+        "birthday": "5-1-1987",
+        "proffesion": "Hekejový brankář: HC České Budějovice, TPS Turku, Florida Panthers, FK Sibir Novosibirsk, reprazentant"
+    },
+    {
+        "slug": "jiri-skalak",
+        "name": "Jiří Skalák",
+        "type": "Osobnost sportu",
+        "number": 0,
+        "birthday": "12-3-1992",
+        "proffesion": "Fotbalový záložník: AC Sparta Praha, MFK Ružomberok, FC Zbrojovka Brno, Mladá Boleslav, Brighton & Hove Albion FC (Anglie), Millwall FC (Anglie)"
+    },
+    {
+        "slug": "radek-smolenak",
+        "name": "Radek smoleňák",
+        "type": "Osobnost sportu",
+        "number": 70,
+        "birthday": "3-12-1986",
+        "proffesion": "Hokejový útočník: HC Sparta Praha,Tampa Bay Lightning, Chicago Blackhawks, TPS Turku, HC Slovan Bratislava"
+    },
+    {
+        "slug": "jakub-smrz",
+        "name": "Jakub Smrž",
+        "type": "Osobnost sportu",
+        "number": 8,
+        "birthday": "7-4-1983",
+        "proffesion": "Český profesionální motocyklový závodník."
+    },
+    {
+        "slug": "radek-snozik",
+        "name": "Radek Sňozík",
+        "type": "Osobnost sportu",
+        "number": 1,
+        "birthday": "17-10-1975",
+        "proffesion": "Fotbalový brankář: Marila Příbram, Bohemins 1905, Rakovník, Štěchovice, Lety"
+    },
+    {
+        "slug": "ludek-sraceny",
+        "name": "Luděk Sracený",
+        "type": "Osobnost sportu",
+        "number": 8,
+        "birthday": "19-14-1977",
+        "proffesion": "Fotbalista: AC Sparta Praha, FK Viktoria Žižkov, Heart of Midlothian FC"
+    },
+    {
+        "slug": "vaclav-sverkos",
+        "name": "Václav Sverkoš",
+        "type": "Osobnost sportu",
+        "number": 25,
+        "birthday": "1-11-1983",
+        "proffesion": "Fotbalista: FC Baník Ostrava, Borussia Mönchengladbach, Hertha BSC Berlín, FC Sochaux"
+    },
+    {
+        "slug": "juraj-simurka",
+        "name": "Juraj Šimurka",
+        "type": "Osobnost sportu",
+        "number": 1,
+        "birthday": "10-5-1961",
+        "proffesion": "Fotbalový brankař a trenér: ZŤS Petržalka, Slavia Praha, Zbrojovka Brno, Bohemians Praha, Viktoria Žižkov"
+    },
+    {
+        "slug": "radek-sirl",
+        "name": "Radek Šírl",
+        "type": "Osobnost sportu",
+        "number": 6,
+        "birthday": "20-3-1981",
+        "proffesion": "Fotbalista: Pohár UEFA, Superpohár UEFA, Zenit Petrohrad, AC Sparta Praha, Bohemians 1905, FK Mladá Boleslav, FC Viktoria Plzeň"
+    },
+    {
+        "slug": "vladimir-smicer",
+        "name": "Vladimír Šmicer",
+        "type": "Osobnost sportu",
+        "number": 7,
+        "birthday": "23-5-1973",
+        "proffesion": "Fotalový záložník: SK Slavia Praha, RC Lenc, Liverpool FC, Dirondions de Bordaux"
+    },
+    {
+        "slug": "jiri-stajner",
+        "name": "Jiří Štajner",
+        "type": "Osobnost sportu",
+        "number": 20,
+        "birthday": "27-5-1976",
+        "proffesion": "Fotbalový záložník: SK Slavia Praha, FC Slovan Liberec, AC Sparta Praha, Hannovr 93, FK Mladá Boleslav"
+    },
+    {
+        "slug": "jakub-stefek",
+        "name": "Jakub Štefek",
+        "type": "Osobnost sportu",
+        "number": 1,
+        "birthday": "20-12-1978",
+        "proffesion": "Vedoucí mužstva a trenér brankářů reprezentace ČR v malém fotbale"
+    },
+    {
+        "slug": "jiri-tlusty",
+        "name": "Jiří Tlustý",
+        "type": "Osobnost sportu",
+        "number": 19,
+        "birthday": "16-3-1988",
+        "proffesion": "Hokejový útočník: HC Rabat Kladno,Toronto Maple Leafs, Carolina Hurricanes, New Jersey Devils"
+    },
+    {
+        "slug": "jindrich-trpisovsky",
+        "name": "Jindřich Trpišovský",
+        "type": "Osobnost sportu",
+        "number": 6,
+        "birthday": "27-2-1976",
+        "proffesion": "Fotbalový trenér. SK Horní Měcholupy, FK Viktoria Žižkov, Slovan Liberec"
+    },
+    {
+        "slug": "tomas-ujfalusi",
+        "name": "Tomáš Ujfaluši",
+        "type": "Osobnost sportu",
+        "number": 21,
+        "birthday": "24-3-1978",
+        "proffesion": "Fotbalový obránce: SK Sigma Olomouc, Hamburger SV, ACF Florentina, Atletico Madrid, Galatasaray, AC Sparta Praha"
+    },
+    {
+        "slug": "vlastimil-vidlicka",
+        "name": "Vlastimil Vidlička",
+        "type": "Osobnost sportu",
+        "number": 6,
+        "birthday": "2-7-1981",
+        "proffesion": "Fotbalista: Svit Zlín, FC Slovan Liberec, AC Sparta Praha, SK Sigma Olomouc"
+    },
+    {
+        "slug": "tomas-vlasak",
+        "name": "Tomáš Vlasák",
+        "type": "Osobnost sportu",
+        "number": 12,
+        "birthday": "1-2-1975",
+        "proffesion": "Bývalý hokejový hráč, 3x Mistr světa, Los Angeles Kings, Omsk, HC Slavie Praha"
+    },
+    {
+        "slug": "jakub-voracek",
+        "name": "Jakub Voráček",
+        "type": "Osobnost sportu",
+        "number": 93,
+        "birthday": "15-8-1989",
+        "proffesion": "Český hokejový útočník: HC Rabat Kladno, Columbus Blue Jackets, Philadelphia Flyers, kapitán národního týmu, zakladatel nadace Kluk Puk"
+    },
+    {
+        "slug": "ludek-zelenka",
+        "name": "Luděk Zelenka",
+        "type": "Osobnost sportu",
+        "number": 17,
+        "birthday": "11-9-1973",
+        "proffesion": "Fotbalista: FK Viktoria Žižkov, SK Slavia Praha, FK Jablonec, FK Teplice, Bohemians 1905, 1. FC Brno"
+    },
+    {
+        "slug": "lukas-zelenka",
+        "name": "Lukáš Zelenka",
+        "type": "Osobnost sportu",
+        "number": 7,
+        "birthday": "5-10-1979",
+        "proffesion": "Fotbalový záložník: AC Sparta Praha, RSC Anderlecht, KVC Westrlo, Manisaspor, 1. FC Slovácko"
+    },
+    {
+        "slug": "daniel-zitka",
+        "name": "Daniel Zítka",
+        "type": "Osobnost sportu",
+        "number": 1,
+        "birthday": "20-6-1975",
+        "proffesion": "Fotbalový brankář: KSC Lokeren, RSC Anderlecht, AC Sparta Praha, reprezentace 3 zápasy"
+    },
     
     
     
